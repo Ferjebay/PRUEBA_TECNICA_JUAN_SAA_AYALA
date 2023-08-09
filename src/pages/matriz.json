@@ -1,0 +1,152 @@
+[
+    [
+        {
+            "valor": 3,
+            "color": "red"
+        },
+        {
+            "valor": 6,
+            "color": "black"
+        },
+        {
+            "valor": 9,
+            "color": "red"
+        },
+        {
+            "valor": 12,
+            "color": "red"
+        },
+        {
+            "valor": 15,
+            "color": "black"
+        },
+        {
+            "valor": 18,
+            "color": "red"
+        },
+        {
+            "valor": 21,
+            "color": "red"
+        },
+        {
+            "valor": 24,
+            "color": "black"
+        },
+        {
+            "valor": 27,
+            "color": "red"
+        },
+        {
+            "valor": 30,
+            "color": "red"
+        },
+        {
+            "valor": 33,
+            "color": "black"
+        },
+        {
+            "valor": 36,
+            "color": "red"
+        }
+    ],
+    [
+        {
+            "valor": 2,
+            "color": "black"
+        },
+        {
+            "valor": 5,
+            "color": "red"
+        },
+        {
+            "valor": 8,
+            "color": "black"
+        },
+        {
+            "valor": 11,
+            "color": "black"
+        },
+        {
+            "valor": 14,
+            "color": "red"
+        },
+        {
+            "valor": 17,
+            "color": "black"
+        },
+        {
+            "valor": 20,
+            "color": "black"
+        },
+        {
+            "valor": 23,
+            "color": "red"
+        },
+        {
+            "valor": 26,
+            "color": "black"
+        },
+        {
+            "valor": 29,
+            "color": "black"
+        },
+        {
+            "valor": 32,
+            "color": "red"
+        },
+        {
+            "valor": 35,
+            "color": "black"
+        }
+    ],
+    [
+        {
+            "valor": 1,
+            "color": "red"
+        },
+        {
+            "valor": 4,
+            "color": "black"
+        },
+        {
+            "valor": 7,
+            "color": "red"
+        },
+        {
+            "valor": 10,
+            "color": "black"
+        },
+        {
+            "valor": 13,
+            "color": "black"
+        },
+        {
+            "valor": 16,
+            "color": "red"
+        },
+        {
+            "valor": 19,
+            "color": "red"
+        },
+        {
+            "valor": 22,
+            "color": "black"
+        },
+        {
+            "valor": 25,
+            "color": "red"
+        },
+        {
+            "valor": 28,
+            "color": "black"
+        },
+        {
+            "valor": 31,
+            "color": "black"
+        },
+        {
+            "valor": 34,
+            "color": "red"
+        }
+    ]
+]
